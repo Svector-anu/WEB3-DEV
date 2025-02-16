@@ -6,6 +6,16 @@ Exit Code: 0
 ----
 Command: pwd
 Output:
-/Users/macbook/Desktop/WEB3 DEV
+/Users/macbook/Desktop/VSCODE/web3novA/SVECTOR BOT@WEB3NOVA/WEB3 DEV
 Exit Code: 0
+----
+Command: npm run dev
+Output:
+npm ERR! Missing script: "dev"
+npm ERR! 
+npm ERR! To see a list of scripts, run:
+npm ERR!   npm run
+
+npm ERR! A complete log of this run can be found in: /Users/macbook/.npm/_logs/2025-02-12T08_20_34_820Z-debug-0.log
+Exit Code: 1
 ----
